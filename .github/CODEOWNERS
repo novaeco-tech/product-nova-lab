@@ -1,0 +1,9 @@
+# CODEOWNERS file
+# Default owners for all files are the hub maintainers
+*         @nova-ecosystem/maintainers-enabler-hub
+
+# Service-specific overrides
+/api/     @nova-ecosystem/maintainers-enabler-hub
+/app/     @nova-ecosystem/maintainers-enabler-hub
+/website/ @nova-ecosystem/maintainers-enabler-hub
+/tests/   @nova-ecosystem/maintainers-enabler-hub
