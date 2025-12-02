@@ -1,9 +1,3 @@
-Here is the comprehensive `README.md` for **`product-nova-lab`**.
-
-This document positions NovaLab as the "Operating System for Innovation"—the user-facing workspace where the complex capabilities of the ecosystem (AI, Trade, Material data) are simplified into actionable "Projects."
-
------
-
 # 🧪 NovaLab
 
 > **The Innovation Engine for the Circular Economy.**
